@@ -5,3 +5,4 @@ export var ButtonDeferType;
     ButtonDeferType["NONE"] = "NONE";
 })(ButtonDeferType || (ButtonDeferType = {}));
 //# sourceMappingURL=button.js.map
+//# Pasted from Tanner S. Pterodactyl Pannel
