@@ -2,7 +2,7 @@
     "developers": ["1027751411745816606"],
     "client": {
         "id": "1148809273585971230",
-        "token": "PASTE-BOT-TOKEN-HERE",
+        "token": "RUN-SCRIPT-INSTEAD-OF-PASTING-HERE"
         "intents": [
             "Guilds",
             "GuildMessages",
